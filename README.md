@@ -1,3 +1,3 @@
-#Demo Git repository
+#Git repository
 
-This is a sample
+This is a updated
